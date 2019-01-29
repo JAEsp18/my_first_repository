@@ -1,0 +1,1 @@
+*emphasizThis file is mandatory in all Holberton School projectse* _This file is mandatory in all Holberton School projects_
